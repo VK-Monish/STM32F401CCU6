@@ -1,3 +1,8 @@
+/******************************************************/
+/*   NAME        : MONISH KUMAR.K                     */
+/*   DATE        : 26/01/2024                         */
+/*   DESCRIPTION : 8X8 PATTERN                        */
+/******************************************************/
 volatile unsigned int *RCC_CR      = (volatile unsigned int *)0x40023800;
 volatile unsigned int *RCC_CFGR    = (volatile unsigned int *)0x40023808;
 volatile unsigned int *RCC_AHB1ENR = (volatile unsigned int *)0x40023830;
