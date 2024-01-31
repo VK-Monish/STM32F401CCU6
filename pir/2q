@@ -1,0 +1,50 @@
+volatile unsigned int *RCC_CR      = (volatile unsigned int *)0x40023800;
+volatile unsigned int *RCC_CFGR    = (volatile unsigned int *)0x40023808;
+volatile unsigned int *RCC_AHB1ENR = (volatile unsigned int *)0x40023830; 
+
+volatile unsigned int *GPIOA_MODER = (volatile unsigned int *)0x40020000;
+volatile unsigned int *GPIOA_IDR   = (volatile unsigned int *)0x40020010;
+volatile unsigned int *GPIOA_ODR   = (volatile unsigned int *)0x40020014;
+
+void rcc_config(void);
+void gpio_moder(void);
+void delay(void);
+void pir_config(void);
+
+int main()
+{
+  while(1)
+  {
+    pir_config();
+  }
+}
+void delay()
+{
+  int i;
+  for(i=0; i<100000; i++);
+}
+void rcc_config()
+{
+  *RCC_CR      = *RCC_CR & (~0X00010000);
+  *RCC_CR      = *RCC_CR | (1<<16);
+  while((*RCC_CR & 1<<17)==0);
+  *RCC_CFGR    = *RCC_CFGR & (~0X00000003);
+  *RCC_CFGR    = *RCC_CFGR | (1<<0);
+  while(!(RCC_CFGR & 0X00000004));
+  *RCC_AHB1ENR = *RCC_AHB1EBR | (1<<0);
+}
+void gpio_moder()
+{
+  *GPIOA_MODER = *GPIOA_MODER & (~0X00000003);
+  *GPIOA_MODER = *GPIOA_MODER | (1<<2);
+}
+void pir_config()
+{
+  while(1)
+  {
+    if(*GPIOA_IDR == 1)
+    {
+      *GPIOA_ODR = GPIOA_ODR | (1<<2);
+    }
+  }
+}
