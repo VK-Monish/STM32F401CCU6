@@ -1,0 +1,388 @@
+Archive member included to satisfy reference by file (symbol)
+
+/home/monish/Documents/STM/arm_compiler/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(lib_a-exit.o)
+                              /home/monish/Documents/STM/arm_compiler/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/crt0.o (exit)
+/home/monish/Documents/STM/arm_compiler/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(lib_a-impure.o)
+                              /home/monish/Documents/STM/arm_compiler/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(lib_a-exit.o) (_global_impure_ptr)
+/home/monish/Documents/STM/arm_compiler/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(lib_a-init.o)
+                              /home/monish/Documents/STM/arm_compiler/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/crt0.o (__libc_init_array)
+/home/monish/Documents/STM/arm_compiler/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(lib_a-memset.o)
+                              /home/monish/Documents/STM/arm_compiler/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/crt0.o (memset)
+/home/monish/Documents/STM/arm_compiler/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libnosys.a(_exit.o)
+                              /home/monish/Documents/STM/arm_compiler/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(lib_a-exit.o) (_exit)
+
+Discarded input sections
+
+ .text          0x0000000000000000        0x0 /home/monish/Documents/STM/arm_compiler/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7e-m+fp/hard/crti.o
+ .data          0x0000000000000000        0x0 /home/monish/Documents/STM/arm_compiler/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7e-m+fp/hard/crti.o
+ .bss           0x0000000000000000        0x0 /home/monish/Documents/STM/arm_compiler/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7e-m+fp/hard/crti.o
+ .data          0x0000000000000000        0x4 /home/monish/Documents/STM/arm_compiler/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7e-m+fp/hard/crtbegin.o
+ .rodata        0x0000000000000000       0x24 /home/monish/Documents/STM/arm_compiler/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7e-m+fp/hard/crtbegin.o
+ .text          0x0000000000000000       0x7c /home/monish/Documents/STM/arm_compiler/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/crt0.o
+ .data          0x0000000000000000        0x0 /home/monish/Documents/STM/arm_compiler/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/crt0.o
+ .bss           0x0000000000000000        0x0 /home/monish/Documents/STM/arm_compiler/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/crt0.o
+ .ARM.extab     0x0000000000000000        0x0 /home/monish/Documents/STM/arm_compiler/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/crt0.o
+ .ARM.exidx     0x0000000000000000       0x10 /home/monish/Documents/STM/arm_compiler/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/crt0.o
+ .ARM.attributes
+                0x0000000000000000       0x1c /home/monish/Documents/STM/arm_compiler/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/crt0.o
+ .text          0x0000000000000000        0x0 /home/monish/Documents/STM/arm_compiler/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(lib_a-exit.o)
+ .data          0x0000000000000000        0x0 /home/monish/Documents/STM/arm_compiler/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(lib_a-exit.o)
+ .bss           0x0000000000000000        0x0 /home/monish/Documents/STM/arm_compiler/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(lib_a-exit.o)
+ .text.exit     0x0000000000000000       0x28 /home/monish/Documents/STM/arm_compiler/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(lib_a-exit.o)
+ .debug_frame   0x0000000000000000       0x28 /home/monish/Documents/STM/arm_compiler/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(lib_a-exit.o)
+ .ARM.attributes
+                0x0000000000000000       0x34 /home/monish/Documents/STM/arm_compiler/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(lib_a-exit.o)
+ .text          0x0000000000000000        0x0 /home/monish/Documents/STM/arm_compiler/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(lib_a-impure.o)
+ .data          0x0000000000000000        0x0 /home/monish/Documents/STM/arm_compiler/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(lib_a-impure.o)
+ .bss           0x0000000000000000        0x0 /home/monish/Documents/STM/arm_compiler/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(lib_a-impure.o)
+ .data._impure_ptr
+                0x0000000000000000        0x4 /home/monish/Documents/STM/arm_compiler/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(lib_a-impure.o)
+ .data.impure_data
+                0x0000000000000000       0x60 /home/monish/Documents/STM/arm_compiler/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(lib_a-impure.o)
+ .rodata._global_impure_ptr
+                0x0000000000000000        0x4 /home/monish/Documents/STM/arm_compiler/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(lib_a-impure.o)
+ .ARM.attributes
+                0x0000000000000000       0x34 /home/monish/Documents/STM/arm_compiler/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(lib_a-impure.o)
+ .text          0x0000000000000000        0x0 /home/monish/Documents/STM/arm_compiler/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(lib_a-init.o)
+ .data          0x0000000000000000        0x0 /home/monish/Documents/STM/arm_compiler/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(lib_a-init.o)
+ .bss           0x0000000000000000        0x0 /home/monish/Documents/STM/arm_compiler/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(lib_a-init.o)
+ .text          0x0000000000000000        0x0 /home/monish/Documents/STM/arm_compiler/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(lib_a-memset.o)
+ .data          0x0000000000000000        0x0 /home/monish/Documents/STM/arm_compiler/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(lib_a-memset.o)
+ .bss           0x0000000000000000        0x0 /home/monish/Documents/STM/arm_compiler/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(lib_a-memset.o)
+ .text.memset   0x0000000000000000       0x10 /home/monish/Documents/STM/arm_compiler/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(lib_a-memset.o)
+ .debug_frame   0x0000000000000000       0x20 /home/monish/Documents/STM/arm_compiler/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(lib_a-memset.o)
+ .ARM.attributes
+                0x0000000000000000       0x34 /home/monish/Documents/STM/arm_compiler/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(lib_a-memset.o)
+ .text          0x0000000000000000       0x14 /tmp/ccXOUH7A.o
+ .data          0x0000000000000000        0x0 /tmp/ccXOUH7A.o
+ .bss           0x0000000000000000        0x0 /tmp/ccXOUH7A.o
+ .bss           0x0000000000000000        0x0 /tmp/cca570GC.o
+ .text          0x0000000000000000        0x0 /home/monish/Documents/STM/arm_compiler/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libnosys.a(_exit.o)
+ .data          0x0000000000000000        0x0 /home/monish/Documents/STM/arm_compiler/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libnosys.a(_exit.o)
+ .bss           0x0000000000000000        0x0 /home/monish/Documents/STM/arm_compiler/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libnosys.a(_exit.o)
+ .text._exit    0x0000000000000000        0x4 /home/monish/Documents/STM/arm_compiler/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libnosys.a(_exit.o)
+ .debug_frame   0x0000000000000000       0x20 /home/monish/Documents/STM/arm_compiler/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libnosys.a(_exit.o)
+ .ARM.attributes
+                0x0000000000000000       0x34 /home/monish/Documents/STM/arm_compiler/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libnosys.a(_exit.o)
+ .text          0x0000000000000000        0x0 /home/monish/Documents/STM/arm_compiler/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7e-m+fp/hard/crtend.o
+ .data          0x0000000000000000        0x0 /home/monish/Documents/STM/arm_compiler/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7e-m+fp/hard/crtend.o
+ .bss           0x0000000000000000        0x0 /home/monish/Documents/STM/arm_compiler/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7e-m+fp/hard/crtend.o
+ .rodata        0x0000000000000000       0x24 /home/monish/Documents/STM/arm_compiler/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7e-m+fp/hard/crtend.o
+ .eh_frame      0x0000000000000000        0x4 /home/monish/Documents/STM/arm_compiler/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7e-m+fp/hard/crtend.o
+ .ARM.attributes
+                0x0000000000000000       0x34 /home/monish/Documents/STM/arm_compiler/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7e-m+fp/hard/crtend.o
+ .text          0x0000000000000000        0x0 /home/monish/Documents/STM/arm_compiler/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7e-m+fp/hard/crtn.o
+ .data          0x0000000000000000        0x0 /home/monish/Documents/STM/arm_compiler/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7e-m+fp/hard/crtn.o
+ .bss           0x0000000000000000        0x0 /home/monish/Documents/STM/arm_compiler/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7e-m+fp/hard/crtn.o
+
+Memory Configuration
+
+Name             Origin             Length             Attributes
+RAM              0x0000000020000000 0x0000000000010000 xrw
+FLASH            0x0000000008000000 0x0000000000040000 xr
+*default*        0x0000000000000000 0xffffffffffffffff
+
+Linker script and memory map
+
+LOAD /home/monish/Documents/STM/arm_compiler/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7e-m+fp/hard/crti.o
+LOAD /home/monish/Documents/STM/arm_compiler/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7e-m+fp/hard/crtbegin.o
+LOAD /home/monish/Documents/STM/arm_compiler/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/crt0.o
+START GROUP
+LOAD /home/monish/Documents/STM/arm_compiler/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a
+LOAD /home/monish/Documents/STM/arm_compiler/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libm.a
+END GROUP
+LOAD /tmp/ccXOUH7A.o
+LOAD /tmp/cca570GC.o
+START GROUP
+LOAD /home/monish/Documents/STM/arm_compiler/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7e-m+fp/hard/libgcc.a
+LOAD /home/monish/Documents/STM/arm_compiler/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a
+LOAD /home/monish/Documents/STM/arm_compiler/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a
+END GROUP
+START GROUP
+LOAD /home/monish/Documents/STM/arm_compiler/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7e-m+fp/hard/libgcc.a
+LOAD /home/monish/Documents/STM/arm_compiler/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a
+LOAD /home/monish/Documents/STM/arm_compiler/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libnosys.a
+END GROUP
+START GROUP
+LOAD /home/monish/Documents/STM/arm_compiler/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7e-m+fp/hard/libgcc.a
+LOAD /home/monish/Documents/STM/arm_compiler/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a
+LOAD /home/monish/Documents/STM/arm_compiler/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libnosys.a
+END GROUP
+LOAD /home/monish/Documents/STM/arm_compiler/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7e-m+fp/hard/crtend.o
+LOAD /home/monish/Documents/STM/arm_compiler/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7e-m+fp/hard/crtn.o
+                0x0000000020010000                _estack = (ORIGIN (RAM) + LENGTH (RAM))
+                0x0000000000000200                _Min_Heap_Size = 0x200
+                0x0000000000000400                _Min_Stack_Size = 0x400
+
+.isr_vector     0x0000000008000000      0x194
+                0x0000000008000000                . = ALIGN (0x4)
+ *(.isr_vector)
+ .isr_vector    0x0000000008000000      0x194 /tmp/ccXOUH7A.o
+                0x0000000008000000                g_pfnVectors
+                0x0000000008000194                . = ALIGN (0x4)
+
+.text           0x0000000008000194      0x2d4
+                0x0000000008000194                . = ALIGN (0x4)
+ *(.text)
+ .text          0x0000000008000194       0x40 /home/monish/Documents/STM/arm_compiler/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7e-m+fp/hard/crtbegin.o
+ .text          0x00000000080001d4      0x1e4 /tmp/cca570GC.o
+                0x00000000080001d4                rcc_config
+                0x0000000008000258                sys1
+                0x000000000800029c                sys
+                0x00000000080002e0                gpio_moder
+                0x0000000008000328                inter
+                0x00000000080003a0                main
+ *(.text*)
+ .text.__libc_init_array
+                0x00000000080003b8       0x48 /home/monish/Documents/STM/arm_compiler/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(lib_a-init.o)
+                0x00000000080003b8                __libc_init_array
+ .text.Reset_Handler
+                0x0000000008000400       0x4c /tmp/ccXOUH7A.o
+                0x0000000008000400                Reset_Handler
+ .text.Default_Handler
+                0x000000000800044c        0x2 /tmp/ccXOUH7A.o
+                0x000000000800044c                RTC_Alarm_IRQHandler
+                0x000000000800044c                EXTI2_IRQHandler
+                0x000000000800044c                DebugMon_Handler
+                0x000000000800044c                SPI4_IRQHandler
+                0x000000000800044c                TIM1_CC_IRQHandler
+                0x000000000800044c                DMA2_Stream5_IRQHandler
+                0x000000000800044c                HardFault_Handler
+                0x000000000800044c                DMA1_Stream5_IRQHandler
+                0x000000000800044c                SysTick_Handler
+                0x000000000800044c                PVD_IRQHandler
+                0x000000000800044c                SDIO_IRQHandler
+                0x000000000800044c                TAMP_STAMP_IRQHandler
+                0x000000000800044c                PendSV_Handler
+                0x000000000800044c                NMI_Handler
+                0x000000000800044c                EXTI3_IRQHandler
+                0x000000000800044c                TIM1_UP_TIM10_IRQHandler
+                0x000000000800044c                I2C3_ER_IRQHandler
+                0x000000000800044c                EXTI0_IRQHandler
+                0x000000000800044c                I2C2_EV_IRQHandler
+                0x000000000800044c                DMA1_Stream2_IRQHandler
+                0x000000000800044c                FPU_IRQHandler
+                0x000000000800044c                UsageFault_Handler
+                0x000000000800044c                DMA2_Stream2_IRQHandler
+                0x000000000800044c                SPI1_IRQHandler
+                0x000000000800044c                TIM1_BRK_TIM9_IRQHandler
+                0x000000000800044c                DMA2_Stream3_IRQHandler
+                0x000000000800044c                USART6_IRQHandler
+                0x000000000800044c                DMA2_Stream0_IRQHandler
+                0x000000000800044c                TIM4_IRQHandler
+                0x000000000800044c                I2C1_EV_IRQHandler
+                0x000000000800044c                DMA1_Stream6_IRQHandler
+                0x000000000800044c                DMA1_Stream1_IRQHandler
+                0x000000000800044c                TIM3_IRQHandler
+                0x000000000800044c                RCC_IRQHandler
+                0x000000000800044c                Default_Handler
+                0x000000000800044c                EXTI15_10_IRQHandler
+                0x000000000800044c                ADC_IRQHandler
+                0x000000000800044c                DMA1_Stream7_IRQHandler
+                0x000000000800044c                TIM5_IRQHandler
+                0x000000000800044c                DMA2_Stream7_IRQHandler
+                0x000000000800044c                I2C3_EV_IRQHandler
+                0x000000000800044c                EXTI9_5_IRQHandler
+                0x000000000800044c                RTC_WKUP_IRQHandler
+                0x000000000800044c                SPI2_IRQHandler
+                0x000000000800044c                MemManage_Handler
+                0x000000000800044c                DMA1_Stream0_IRQHandler
+                0x000000000800044c                SVC_Handler
+                0x000000000800044c                EXTI4_IRQHandler
+                0x000000000800044c                WWDG_IRQHandler
+                0x000000000800044c                TIM2_IRQHandler
+                0x000000000800044c                OTG_FS_WKUP_IRQHandler
+                0x000000000800044c                TIM1_TRG_COM_TIM11_IRQHandler
+                0x000000000800044c                EXTI1_IRQHandler
+                0x000000000800044c                USART2_IRQHandler
+                0x000000000800044c                I2C2_ER_IRQHandler
+                0x000000000800044c                DMA2_Stream1_IRQHandler
+                0x000000000800044c                FLASH_IRQHandler
+                0x000000000800044c                DMA2_Stream4_IRQHandler
+                0x000000000800044c                BusFault_Handler
+                0x000000000800044c                USART1_IRQHandler
+                0x000000000800044c                OTG_FS_IRQHandler
+                0x000000000800044c                SPI3_IRQHandler
+                0x000000000800044c                DMA1_Stream4_IRQHandler
+                0x000000000800044c                I2C1_ER_IRQHandler
+                0x000000000800044c                DMA2_Stream6_IRQHandler
+                0x000000000800044c                DMA1_Stream3_IRQHandler
+ *(.glue_7)
+ .glue_7        0x000000000800044e        0x0 linker stubs
+ *(.glue_7t)
+ .glue_7t       0x000000000800044e        0x0 linker stubs
+ *(.eh_frame)
+ *fill*         0x000000000800044e        0x2 
+ .eh_frame      0x0000000008000450        0x0 /home/monish/Documents/STM/arm_compiler/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7e-m+fp/hard/crtbegin.o
+ *(.init)
+ .init          0x0000000008000450        0x4 /home/monish/Documents/STM/arm_compiler/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7e-m+fp/hard/crti.o
+                0x0000000008000450                _init
+ .init          0x0000000008000454        0x8 /home/monish/Documents/STM/arm_compiler/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7e-m+fp/hard/crtn.o
+ *(.fini)
+ .fini          0x000000000800045c        0x4 /home/monish/Documents/STM/arm_compiler/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7e-m+fp/hard/crti.o
+                0x000000000800045c                _fini
+ .fini          0x0000000008000460        0x8 /home/monish/Documents/STM/arm_compiler/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7e-m+fp/hard/crtn.o
+                0x0000000008000468                . = ALIGN (0x4)
+                0x0000000008000468                _etext = .
+
+.vfp11_veneer   0x0000000008000468        0x0
+ .vfp11_veneer  0x0000000008000468        0x0 linker stubs
+
+.v4_bx          0x0000000008000468        0x0
+ .v4_bx         0x0000000008000468        0x0 linker stubs
+
+.iplt           0x0000000008000468        0x0
+ .iplt          0x0000000008000468        0x0 /home/monish/Documents/STM/arm_compiler/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7e-m+fp/hard/crtbegin.o
+
+.rel.dyn        0x0000000008000468        0x0
+ .rel.iplt      0x0000000008000468        0x0 /home/monish/Documents/STM/arm_compiler/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7e-m+fp/hard/crtbegin.o
+
+.rodata         0x0000000008000468        0x0
+                0x0000000008000468                . = ALIGN (0x4)
+ *(.rodata)
+ *(.rodata*)
+                0x0000000008000468                . = ALIGN (0x4)
+
+.ARM.extab      0x0000000008000468        0x0
+                0x0000000008000468                . = ALIGN (0x4)
+ *(.ARM.extab* .gnu.linkonce.armextab.*)
+                0x0000000008000468                . = ALIGN (0x4)
+
+.ARM            0x0000000008000468        0x0
+                0x0000000008000468                . = ALIGN (0x4)
+                0x0000000008000468                __exidx_start = .
+ *(.ARM.exidx*)
+                0x0000000008000468                __exidx_end = .
+                0x0000000008000468                . = ALIGN (0x4)
+
+.preinit_array  0x0000000008000468        0x0
+                0x0000000008000468                . = ALIGN (0x4)
+                0x0000000008000468                PROVIDE (__preinit_array_start = .)
+ *(.preinit_array*)
+                0x0000000008000468                PROVIDE (__preinit_array_end = .)
+                0x0000000008000468                . = ALIGN (0x4)
+
+.init_array     0x0000000008000468        0x4
+                0x0000000008000468                . = ALIGN (0x4)
+                0x0000000008000468                PROVIDE (__init_array_start = .)
+ *(SORT_BY_NAME(.init_array.*))
+ *(.init_array*)
+ .init_array    0x0000000008000468        0x4 /home/monish/Documents/STM/arm_compiler/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7e-m+fp/hard/crtbegin.o
+                0x000000000800046c                PROVIDE (__init_array_end = .)
+                0x000000000800046c                . = ALIGN (0x4)
+
+.fini_array     0x000000000800046c        0x4
+                0x000000000800046c                . = ALIGN (0x4)
+                [!provide]                        PROVIDE (__fini_array_start = .)
+ *(SORT_BY_NAME(.fini_array.*))
+ *(.fini_array*)
+ .fini_array    0x000000000800046c        0x4 /home/monish/Documents/STM/arm_compiler/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7e-m+fp/hard/crtbegin.o
+                [!provide]                        PROVIDE (__fini_array_end = .)
+                0x0000000008000470                . = ALIGN (0x4)
+                0x0000000008000470                _sidata = LOADADDR (.data)
+
+.data           0x0000000020000000       0x24 load address 0x0000000008000470
+                0x0000000020000000                . = ALIGN (0x4)
+                0x0000000020000000                _sdata = .
+ *(.data)
+ .data          0x0000000020000000       0x24 /tmp/cca570GC.o
+                0x0000000020000000                RCC_CR
+                0x0000000020000004                RCC_CFGR
+                0x0000000020000008                RCC_AHB1ENR
+                0x000000002000000c                GPIOA_MODER
+                0x0000000020000010                GPIOA_PUPDR
+                0x0000000020000014                GPIOA_IDR
+                0x0000000020000018                GPIOA_ODR
+                0x000000002000001c                STK_CTRL
+                0x0000000020000020                STK_LOAD
+ *(.data*)
+ *(.RamFunc)
+ *(.RamFunc*)
+                0x0000000020000024                . = ALIGN (0x4)
+                0x0000000020000024                _edata = .
+
+.igot.plt       0x0000000020000024        0x0 load address 0x0000000008000494
+ .igot.plt      0x0000000020000024        0x0 /home/monish/Documents/STM/arm_compiler/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7e-m+fp/hard/crtbegin.o
+                0x0000000020000024                . = ALIGN (0x4)
+
+.bss            0x0000000020000024       0x1c load address 0x0000000008000494
+                0x0000000020000024                _sbss = .
+                0x0000000020000024                __bss_start__ = _sbss
+ *(.bss)
+ .bss           0x0000000020000024       0x1c /home/monish/Documents/STM/arm_compiler/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7e-m+fp/hard/crtbegin.o
+ *(.bss*)
+ *(COMMON)
+                0x0000000020000040                . = ALIGN (0x4)
+                0x0000000020000040                _ebss = .
+                0x0000000020000040                __bss_end__ = _ebss
+
+._user_heap_stack
+                0x0000000020000040      0x600 load address 0x0000000008000494
+                0x0000000020000040                . = ALIGN (0x8)
+                [!provide]                        PROVIDE (end = .)
+                [!provide]                        PROVIDE (_end = .)
+                0x0000000020000240                . = (. + _Min_Heap_Size)
+ *fill*         0x0000000020000040      0x200 
+                0x0000000020000640                . = (. + _Min_Stack_Size)
+ *fill*         0x0000000020000240      0x400 
+                0x0000000020000640                . = ALIGN (0x8)
+
+/DISCARD/
+ libc.a(*)
+ libm.a(*)
+ libgcc.a(*)
+
+.ARM.attributes
+                0x0000000000000000       0x30
+ *(.ARM.attributes)
+ .ARM.attributes
+                0x0000000000000000       0x1e /home/monish/Documents/STM/arm_compiler/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7e-m+fp/hard/crti.o
+ .ARM.attributes
+                0x000000000000001e       0x34 /home/monish/Documents/STM/arm_compiler/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7e-m+fp/hard/crtbegin.o
+ .ARM.attributes
+                0x0000000000000052       0x34 /home/monish/Documents/STM/arm_compiler/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(lib_a-init.o)
+ .ARM.attributes
+                0x0000000000000086       0x21 /tmp/ccXOUH7A.o
+ .ARM.attributes
+                0x00000000000000a7       0x34 /tmp/cca570GC.o
+ .ARM.attributes
+                0x00000000000000db       0x1e /home/monish/Documents/STM/arm_compiler/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7e-m+fp/hard/crtn.o
+OUTPUT(stm32f401ccux.elf elf32-littlearm)
+LOAD linker stubs
+LOAD /home/monish/Documents/STM/arm_compiler/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc.a
+LOAD /home/monish/Documents/STM/arm_compiler/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libm.a
+LOAD /home/monish/Documents/STM/arm_compiler/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7e-m+fp/hard/libgcc.a
+
+.debug_frame    0x0000000000000000       0xf8
+ .debug_frame   0x0000000000000000       0x2c /home/monish/Documents/STM/arm_compiler/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(lib_a-init.o)
+ .debug_frame   0x000000000000002c       0xcc /tmp/cca570GC.o
+
+.debug_line     0x0000000000000000      0x201
+ .debug_line    0x0000000000000000       0x77 /tmp/ccXOUH7A.o
+ .debug_line    0x0000000000000077      0x18a /tmp/cca570GC.o
+
+.debug_info     0x0000000000000000      0x18f
+ .debug_info    0x0000000000000000       0x22 /tmp/ccXOUH7A.o
+ .debug_info    0x0000000000000022      0x16d /tmp/cca570GC.o
+
+.debug_abbrev   0x0000000000000000       0xe3
+ .debug_abbrev  0x0000000000000000       0x12 /tmp/ccXOUH7A.o
+ .debug_abbrev  0x0000000000000012       0xd1 /tmp/cca570GC.o
+
+.debug_aranges  0x0000000000000000       0x48
+ .debug_aranges
+                0x0000000000000000       0x28 /tmp/ccXOUH7A.o
+ .debug_aranges
+                0x0000000000000028       0x20 /tmp/cca570GC.o
+
+.debug_str      0x0000000000000000      0x162
+ .debug_str     0x0000000000000000       0x5b /tmp/ccXOUH7A.o
+ .debug_str     0x000000000000005b      0x107 /tmp/cca570GC.o
+                                        0x13c (size before relaxing)
+
+.debug_ranges   0x0000000000000000       0x20
+ .debug_ranges  0x0000000000000000       0x20 /tmp/ccXOUH7A.o
+
+.comment        0x0000000000000000       0x49
+ .comment       0x0000000000000000       0x49 /tmp/cca570GC.o
+                                         0x4a (size before relaxing)
